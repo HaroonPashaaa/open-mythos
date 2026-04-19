@@ -1,4 +1,4 @@
-# Wojak Capital Configuration
+# Open Mythos Configuration
 
 ## Environment Variables
 

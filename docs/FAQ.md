@@ -2,14 +2,14 @@
 
 ## General
 
-### What is Wojak Capital?
-Wojak Capital is a multi-agent AI trading system that monitors crypto, forex, and futures markets simultaneously.
+### What is Open Mythos?
+Open Mythos is a multi-agent AI trading system that monitors crypto, forex, and futures markets simultaneously.
 
 ### Is it profitable?
 Past performance doesn't guarantee future results. Always test with paper trading first.
 
 ### How much does it cost?
-Wojak Capital is open-source and free. You pay for your own infrastructure and trading fees.
+Open Mythos is open-source and free. You pay for your own infrastructure and trading fees.
 
 ## Technical
 

@@ -1,6 +1,6 @@
-# Contributing to Wojak Capital
+# Contributing to Open Mythos
 
-Thank you for your interest in contributing to Wojak Capital!
+Thank you for your interest in contributing to Open Mythos!
 
 ## Development Setup
 

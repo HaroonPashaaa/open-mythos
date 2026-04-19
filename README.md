@@ -1,4 +1,4 @@
-# Wojak Capital
+# Open Mythos
 
 > Multi-Agent AI Trading System - When the market dips, we buy
 
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Wojak Capital is a sophisticated multi-agent trading system where specialized AI agents monitor cryptocurrency futures, forex, and stock futures markets simultaneously. Agents consult each other on optimal strategies, report intelligence to OpenClaw (the central orchestrator), and execute trades through integrated exchange APIs.
+Open Mythos is a sophisticated multi-agent trading system where specialized AI agents monitor cryptocurrency futures, forex, and stock futures markets simultaneously. Agents consult each other on optimal strategies, report intelligence to OpenClaw (the central orchestrator), and execute trades through integrated exchange APIs.
 
 ## Architecture
 
@@ -141,7 +141,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
-Built with precision by the Wojak Capital team.
+Built with precision by the Open Mythos team.
 
 ## Daily Updates
 

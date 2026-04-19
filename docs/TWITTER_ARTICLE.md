@@ -1,11 +1,11 @@
-# Wojak Capital - Twitter Article
+# Open Mythos - Twitter Article
 ## Professional Thread for X (Twitter)
 <img width="1146" height="754" alt="image" src="https://github.com/user-attachments/assets/3b104da8-dd0d-49fc-ae84-19c87ed717bc" />
 
 ---
 
 **Tweet 1/20:**
-Building in public: For the past 6 months I've been developing Wojak Capital, a production-grade multi-agent AI trading system that monitors crypto futures, forex, and stock futures simultaneously.
+Building in public: For the past 6 months I've been developing Open Mythos, a production-grade multi-agent AI trading system that monitors crypto futures, forex, and stock futures simultaneously.
 
 124 files. 6,000+ lines of Python. 12 trading strategies. 7 exchange integrations.
 
@@ -29,7 +29,7 @@ I wanted to build something that removes emotion from trading entirely.
 **Tweet 3/20:**
 Core Philosophy:
 
-Wojak Capital operates on three principles:
+Open Mythos operates on three principles:
 
 1. SYSTEMATIC - Every decision is algorithmic, no emotion
 2. MULTI-MARKET - Diversification across uncorrelated assets
@@ -42,7 +42,7 @@ The name? Because when the market dips, we buy.
 **Tweet 4/20:**
 The Architecture - Multi-Agent System:
 
-Instead of a single trading bot, Wojak Capital uses 4 specialized agents:
+Instead of a single trading bot, Open Mythos uses 4 specialized agents:
 
 • CRYPTO AGENT - Binance/Bybit futures
 • FOREX AGENT - OANDA major pairs
@@ -117,7 +117,7 @@ Only executes when consensus > 60% and confidence > 65%.
 **Tweet 9/20:**
 Risk Management - The Unsexy But Critical Part:
 
-Wojak Capital implements 4 layers of risk control:
+Open Mythos implements 4 layers of risk control:
 
 1. Position Level - Max 2% per trade, hard stops
 2. Strategy Level - Confidence thresholds
@@ -159,7 +159,7 @@ Each integration handles rate limiting, authentication, and error recovery.
 **Tweet 12/20:**
 Data Infrastructure:
 
-Time-series data is critical for trading. Wojak Capital uses:
+Time-series data is critical for trading. Open Mythos uses:
 
 • TimescaleDB hypertables for market data
 • Automated partitioning by time
@@ -289,7 +289,7 @@ Questions welcome. DMs open.
 
 **Standalone Tweet (Pinned Alternative):**
 
-Wojak Capital - Multi-Agent AI Trading System
+Open Mythos - Multi-Agent AI Trading System
 
 🤖 4 specialized trading agents
 📊 12 algorithmic strategies  

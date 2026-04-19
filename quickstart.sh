@@ -1,7 +1,7 @@
 #!/bin/bash
 # Quick start script
 
-echo "🐝 Wojak Capital Quick Start"
+echo "🐝 Open Mythos Quick Start"
 echo ""
 
 # Check prerequisites
@@ -21,7 +21,7 @@ echo "✅ Prerequisites OK"
 echo ""
 
 # Setup
-echo "Setting up Wojak Capital..."
+echo "Setting up Open Mythos..."
 
 if [ ! -f ".env" ]; then
     cp .env.example .env
@@ -42,7 +42,7 @@ echo "Checking health..."
 docker-compose ps
 
 echo ""
-echo "✅ Wojak Capital is running!"
+echo "✅ Open Mythos is running!"
 echo ""
 echo "View logs: docker-compose logs -f"
 echo "Stop: docker-compose down"

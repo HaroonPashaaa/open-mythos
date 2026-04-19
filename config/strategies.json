@@ -1,5 +1,5 @@
 {
-  "name": "Wojak Capital Default Strategy Configuration",
+  "name": "Open Mythos Default Strategy Configuration",
   "version": "1.0.0",
   "strategies": {
     "momentum": {

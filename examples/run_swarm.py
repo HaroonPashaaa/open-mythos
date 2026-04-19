@@ -23,7 +23,7 @@ logging.basicConfig(
 async def main():
     """Main function to run the swarm"""
     
-    print("🐝 Starting Wojak Capital...")
+    print("🐝 Starting Open Mythos...")
     
     # Initialize OpenClaw
     openclaw = OpenClaw()

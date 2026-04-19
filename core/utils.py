@@ -1,5 +1,5 @@
 """
-Utility functions for Wojak Capital
+Utility functions for Open Mythos
 """
 
 import logging

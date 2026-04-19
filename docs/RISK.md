@@ -2,7 +2,7 @@
 
 ## Overview
 
-Wojak Capital implements comprehensive risk management across multiple layers:
+Open Mythos implements comprehensive risk management across multiple layers:
 
 1. **Position Level**: Size limits, stop losses
 2. **Strategy Level**: Confidence thresholds
